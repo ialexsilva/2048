@@ -90,10 +90,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Pontuação"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Melhor"; }
 
 p {
   margin-top: 0;
